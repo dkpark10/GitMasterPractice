@@ -35,6 +35,11 @@
 
 `git add <파일>
 `
+모두 추가하고싶다면
+
+`git add --all
+`
+
 이제 커밋을 해보자
 
 `git commit -m "commit message"
